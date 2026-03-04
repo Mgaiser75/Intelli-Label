@@ -1,0 +1,5 @@
+{
+  "name": "Axiom",
+  "description": "The Ground Truth Engine. A high-throughput AI-assisted data labeling workstation for generating high-quality training data.",
+  "requestFramePermissions": []
+}
